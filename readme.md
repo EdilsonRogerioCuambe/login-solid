@@ -1,9 +1,5 @@
 # Login-Solid
 
-**Login-Solid** é uma aplicação de autenticação e gerenciamento de usuários desenvolvida com **Express.js**, **TypeScript** e **Prisma**. Ela utiliza **JWT** para autenticação segura e **Zod** para validação de dados, garantindo uma base robusta e confiável.
-
-## Instalação
-
 1. **Clone o repositório:**
 
    ```bash
